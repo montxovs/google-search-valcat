@@ -14,6 +14,10 @@
         }
     },
     "default_locale": "en_US",
+    "developer": {
+        "name": "neighborhood-dog",
+        "url": "https://github.com/neighborhood-dog"
+      },
     "chrome_settings_overrides": {
         "homepage": "https://www.google.com/webhp?gl=us&hl=en_US",
         "search_provider": {
