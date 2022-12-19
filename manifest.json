@@ -18,7 +18,10 @@
     "developer": {
         "name": "neighborhood-dog",
         "url": "https://github.com/neighborhood-dog"
-      },
+    },
+    "omnibox": {
+        "keyword": "google-en"
+    },
     "chrome_settings_overrides": {
         "homepage": "https://www.google.com/webhp?gl=us&hl=en_US",
         "search_provider": {
