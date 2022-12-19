@@ -20,7 +20,7 @@
             "search_url": "https://www.google.com/search?client=firefox&gl=us&hl=en_US&q={searchTerms}",
             "is_default": true,
             "encodig": "UTF-8",
-            "favicon_url": "/favicon.ico",
+            "favicon_url": "/icon.ico",
             "image_url": "https://www.google.com/search?client=firefox&gl=us&hl=en_US&tbm=isch&q={searchTerms}",
             "keyword": "@google-en",
             "suggest_url": "https://www.google.com/complete/search?client=firefox&gl=us&hl=en_US&q={searchTerms}"
