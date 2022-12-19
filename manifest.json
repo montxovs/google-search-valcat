@@ -12,6 +12,7 @@
             "strict_min_version": "102.6.0"
         }
     },
+    "default_locale": "en_US",
     "chrome_settings_overrides": {
         "homepage": "https://www.google.com/webhp?gl=us&hl=en_US",
         "search_provider": {
