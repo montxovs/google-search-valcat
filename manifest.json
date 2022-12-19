@@ -3,7 +3,6 @@
     "name": "Google Search in English, Always",
     "version": "1.0.0",
     "icons": {
-        "16": "icon.ico",
         "48": "icon.png",
         "96": "icon@2x.png"
     },
