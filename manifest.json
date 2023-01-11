@@ -3,7 +3,7 @@
     "name": "Google Search in English, Always",
     "short_name": "Google (English)",
     "description": "Google homepage and search in English with personalized web search off.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icons": {
         "48": "icon.png",
         "96": "icon@2x.png"
@@ -14,11 +14,11 @@
             "strict_min_version": "64.0"
         }
     },
-    "default_locale": "en_US",
+    "default_locale": "en",
     "author": "neighborhood-dog",
     "developer": {
         "name": "neighborhood-dog",
-        "url": "https://github.com/neighborhood-dog"
+        "url": "https://github.com/neighborhood-dog/google-search-in-english-always"
     },
     "omnibox": {
         "keyword": "google-en"
