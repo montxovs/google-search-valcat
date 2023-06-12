@@ -24,16 +24,16 @@
         "keyword": "google-ca"
     },
     "chrome_settings_overrides": {
-        "homepage": "https://www.google.com/webhp?hl=ca_ES&pws=0",
+        "homepage": "https://www.google.com/webhp?hl=ca_ES&pws=0&tbs=lr:lang_1ca&lr=lang_ca",
         "search_provider": {
             "name": "Busques a Google en valencià/català",
-            "search_url": "https://www.google.com/webhp?hl=ca_ES&pws=0&client=firefox&q={searchTerms}",
+            "search_url": "https://www.google.com/webhp?hl=ca_ES&pws=0&client=firefox&tbs=lr:lang_1ca&lr=lang_ca&q={searchTerms}",
             "is_default": true,
             "encodig": "UTF-8",
             "favicon_url": "/icon.ico",
-            "image_url": "https://www.google.com/search?hl=ca_ES&pws=0&tbm=isch&client=firefox&q={searchTerms}",
+            "image_url": "https://www.google.com/search?hl=ca_ES&pws=0&tbs=lr:lang_1ca&lr=lang_ca&tbm=isch&client=firefox&q={searchTerms}",
             "keyword": "@google-ca",
-            "suggest_url": "https://suggestqueries.google.com/complete/search?client=firefox&pws=0&hl=ca&q={searchTerms}"
+            "suggest_url": "https://suggestqueries.google.com/complete/search?client=firefox&pws=0&hl=ca&tbs=lr:lang_1ca&lr=lang_ca&q={searchTerms}"
         }
     }
 }
