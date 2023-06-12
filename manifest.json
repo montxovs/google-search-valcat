@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Busques a Google en valencià/català",
+    "name": "Busques a Google en valencià",
     "short_name": "Google (val/cat)",
     "description": "Pàgina principal de Google i busques en valencià/català amb les configuracions personalitzades desactivades.",
     "version": "1.0.0",
